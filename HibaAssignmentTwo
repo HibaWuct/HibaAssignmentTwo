@@ -1,0 +1,10 @@
+{"Assignment":[{"BookId":"100","BookPrice":"10$","BookDescription":"Science","BookQuantity":"3","BookCategory":"children"},
+ {"BookId":"101","BookPrice":"13$","BookDescription":"Science","BookQuantity":"5","BookCategory":"children"},
+ {"BookId":"102","BookPrice":"15$","BookDescription":"Math","BookQuantity":"7","BookCategory":"children"},
+ {"BookId":"103","BookPrice":"10$","BookDescription":"Arts","BookQuantity":"2","BookCategory":"Adults"},
+ {"BookId":"104","BookPrice":"7$","BookDescription":"Math","BookQuantity":"6","BookCategory":"Adults"},
+ {"BookId":"105","BookPrice":"17$","BookDescription":"Sport","BookQuantity":"1","BookCategory":"Men"},
+ {"BookId":"106","BookPrice":"10$","BookDescription":"Sport","BookQuantity":"4","BookCategory":"children"},
+ {"BookId":"107","BookPrice":"12$","BookDescription":"Fashion","BookQuantity":"8","BookCategory":"Women"},
+ {"BookId":"108","BookPrice":"6$","BookDescription":"Animals","BookQuantity":"14","BookCategory":"children"},
+ {"BookId":"109","BookPrice":"16$","BookDescription":"Medicine","BookQuantity":"3","BookCategory":"Doctors"},]}
